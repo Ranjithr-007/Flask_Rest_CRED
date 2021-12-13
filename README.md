@@ -3,10 +3,10 @@ Flask, Mysql & SQLAlchemy
 
 pip install -r requirements.txt
 
-Get Request url:
-http://127.0.0.1:5000/api/people
-For CRED operation
-url :http://127.0.0.1:5000/api/swagger.json
+python app.py
+
+
+url : http://localhost:5000/ui/
 Packages
 
     flask
